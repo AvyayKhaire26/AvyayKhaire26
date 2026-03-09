@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Avyay%20Khaire&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn&fontSize=45)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Java+Spring+Boot+Developer;Microservices+Architecture;System+Design+Learner&center=true&width=500&height=50)
+
 # Hi there 👋 I'm Avyay Khaire
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AvyayKhaire26&color=blue&style=flat)
