@@ -2,6 +2,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Java+Spring+Boot+Developer;Microservices+Architecture;System+Design+Learner&center=true&width=700&height=60)
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Java+Spring+Boot+Developer;Microservices+Architecture;System+Design+Learner&center=true&width=700&height=60">
+</p>
+
 # Hi there 👋 I'm Avyay Khaire
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AvyayKhaire26&color=blue&style=flat)
