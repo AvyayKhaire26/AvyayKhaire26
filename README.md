@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Avyay%20Khaire&fontSize=40&fontColor=ffffff&animation=fadeIn)
 # Hi there 👋 I'm Avyay Khaire
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AvyayKhaire26&color=blue&style=flat)
@@ -40,11 +41,11 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Avyay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvyayKhaire26&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvyayKhaire26&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvyayKhaire26&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvyayKhaire26&layout=compact&theme=radical&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AvyayKhaire26&theme=radical)
 
