@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Avyay%20Khaire&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Avyay%20Khaire&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn&fontSize=45)
 # Hi there 👋 I'm Avyay Khaire
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AvyayKhaire26&color=blue&style=flat)
