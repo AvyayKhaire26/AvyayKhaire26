@@ -46,11 +46,14 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvyayKhaire26&show_icons=true&theme=radical&cache_seconds=1800)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AvyayKhaire26&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvyayKhaire26&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvyayKhaire26&layout=compact&theme=radical&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AvyayKhaire26&theme=radical)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AvyayKhaire26&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
